@@ -4,8 +4,8 @@
 ## Description
 The Game AI guesses a number. You get three chances to guess the number. If you lose all the chances then the game is over but you have a chance of playing again.
 ## Setup/Installation Requirements
-*You can download the zip file and unzip it in your preferred folder.<br/>
-*Import the project to any java IDE like 'netbeans' or 'eclipse'
+You can download the zip file and unzip it in your preferred folder.<br/>
+Import the project to any java IDE like 'netbeans' or 'eclipse'
 ## Technologies Used
 Java
 ## Support and contact details
